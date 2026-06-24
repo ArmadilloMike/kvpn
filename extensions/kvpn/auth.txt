@@ -1,0 +1,2 @@
+your_openvpn_username
+your_openvpn_password

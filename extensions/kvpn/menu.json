@@ -1,0 +1,12 @@
+{
+    "items": [
+        {
+            "name": "Connect VPN",
+            "action": "sh /mnt/us/extensions/kvpn/connect.sh"
+        },
+        {
+            "name": "Disconnect VPN",
+            "action": "sh /mnt/us/extensions/kvpn/disconnect.sh"
+        }
+    ]
+}

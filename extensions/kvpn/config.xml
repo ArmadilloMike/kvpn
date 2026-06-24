@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension>
+    <information>
+        <name>KVPN Client</name>
+        <version>1.0</version>
+        <author>ArmadilloMike</author>
+        <id>KVPN</id>
+    </information>
+    <menus>
+        <menu type="json" id="menu_openvpn">kvpn/menu.json</menu>
+    </menus>
+</extension>
