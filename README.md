@@ -1,10 +1,10 @@
 # KVPN Client
-A KUAL extension for running ProtonVPN (OpenVPN) on jailbroken Kindles.
+A KUAL extension for running an OpenVPN on jailbroken Kindles.
 
 ## Requirements
 - A jailbroken Kindle with KUAL installed
-- A ProtonVPN account (free tier works)
-- kterm or SSH access to run the installer
+- A OpenVPN config file
+- kterm
 
 ## Supported Devices
 Tested on Kindle with a FUSE-based filesystem (`fuse.fsp`). Should work on most jailbroken Kindles running a busybox shell. Tested firmware: <!-- add your firmware version here -->
